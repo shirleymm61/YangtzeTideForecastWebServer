@@ -86,7 +86,7 @@ namespace Read_CentralMeteorological_Station
                         DownImg(urlwind, filename2);
                     }
                 }
-
+                //读取文件最大时间json文件
                 MaxTimeJsonString(weatherPath, windPath, filepath);
             }
             catch (Exception ex)
