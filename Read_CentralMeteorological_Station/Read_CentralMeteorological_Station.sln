@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_CentralMeteorological_Station", "Read_CentralMeteorological_Station.csproj", "{DE910E96-E10C-4261-9354-4BCA74DB0DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE910E96-E10C-4261-9354-4BCA74DB0DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE910E96-E10C-4261-9354-4BCA74DB0DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE910E96-E10C-4261-9354-4BCA74DB0DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE910E96-E10C-4261-9354-4BCA74DB0DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC2CA81C-729D-46CE-87CA-AC5B8A64DB34}
+	EndGlobalSection
+EndGlobal

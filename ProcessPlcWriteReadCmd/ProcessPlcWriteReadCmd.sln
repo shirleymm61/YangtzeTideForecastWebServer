@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessPlcWriteReadCmd", "ProcessPlcWriteReadCmd.csproj", "{DACE75C9-0C4E-4200-9D82-515691C48CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACE75C9-0C4E-4200-9D82-515691C48CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACE75C9-0C4E-4200-9D82-515691C48CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACE75C9-0C4E-4200-9D82-515691C48CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACE75C9-0C4E-4200-9D82-515691C48CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276B888A-65D0-4462-A9C5-E55EE4ABB7D3}
+	EndGlobalSection
+EndGlobal
